@@ -1,16 +1,25 @@
 # dogs_cats_classifier
 
-Classifies dogs and cats
+A Cross Platform Application made using Dart language & Flutter SDK .
+This Application Classifies dogs and cats using Computer Vision, Python, Deep Learning trained Model.
 
-## Getting Started
+TECHNOLOGY USED:
 
-This project is a starting point for a Flutter application.
+1) Dart & Flutter
+2) Computer Vision / Python knowledge
+3) Deep Learning Basics
 
-A few resources to get you started if this is your first Flutter project:
+# SCREENSHOTS/ PROCEDURE :-
+Home Page:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot (10)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/1.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Identifying Dogs through Camera:
+
+![Screenshot (10)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/2.png)
+
+Identifying Cats throigh Camera!
+[Screenshot (11)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/3.png)
+
+Click on Train Button to Train the Model:
+![Screenshot (12)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/4.png)
