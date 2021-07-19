@@ -12,14 +12,11 @@ TECHNOLOGY USED:
 # SCREENSHOTS/ PROCEDURE :-
 Home Page:
 
-![Screenshot (10)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/1.png)
+![Screenshot (10)](https://github.com/rohitks483/Dog-vs-Cat-Classifier/blob/master/Readme%20Files/1.jpeg)
 
 Identifying Dogs through Camera:
 
-![Screenshot (10)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/2.png)
+![Screenshot (10)](https://github.com/rohitks483/Dog-vs-Cat-Classifier/blob/master/Readme%20Files/2.jpeg)
 
 Identifying Cats throigh Camera!
-[Screenshot (11)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/3.png)
-
-Click on Train Button to Train the Model:
-![Screenshot (12)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/4.png)
+[Screenshot (11)](https://github.com/rohitks483/Dog-vs-Cat-Classifier/blob/master/Readme%20Files/3.jpeg)
