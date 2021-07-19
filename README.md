@@ -19,4 +19,4 @@ Identifying Dogs through Camera:
 ![Screenshot (10)](https://github.com/rohitks483/Dog-vs-Cat-Classifier/blob/master/Readme%20Files/2.jpeg)
 
 Identifying Cats throigh Camera!
-[Screenshot (11)](https://github.com/rohitks483/Dog-vs-Cat-Classifier/blob/master/Readme%20Files/3.jpeg)
+![Screenshot (10)](https://github.com/rohitks483/Dog-vs-Cat-Classifier/blob/master/Readme%20Files/3.jpeg)
